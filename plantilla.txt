@@ -1,0 +1,7 @@
+Estimado ${NOMBRE} ${APELLIDO},
+
+Comunico que su numero de la suerte es ${SUERTE}, y que el día bacán es ${BACAN}
+
+Atte. Altabot.
+
+(Este es un correo automatizado desde una casilla no supervisada)
